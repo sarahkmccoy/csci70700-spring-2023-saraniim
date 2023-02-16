@@ -1,4 +1,4 @@
-*Flask 1 HW: 
+* Flask 1 HW: 
 ** https://replit.com/join/ctyhknhxdn-saraniimuller
 
 * Instructions
