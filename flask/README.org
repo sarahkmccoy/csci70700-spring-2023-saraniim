@@ -3,8 +3,13 @@
 
 * Flask 2 HW:
 ** https://replit.com/@SaraniiMuller/FLASK-PART-2?v=1
-*Site
-**https://flask-part-2.saraniimuller.repl.co/
+* Site
+** https://flask-part-2.saraniimuller.repl.co/
+** static
+*** https://replit.com/@SaraniiMuller/FLASK-PART-2#static
+** Templates
+*** https://replit.com/@SaraniiMuller/FLASK-PART-2#templates
+
 
 * Instructions
 
